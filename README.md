@@ -6,5 +6,5 @@
 
 To convert it into an .exe executable file use the command 
 ```linux
- pyinstaller --noconsole --onefile --hidden-import=win10toast web_noti_v4.py
+ pyinstaller --noconsole --onefile web_noti_v4.py
 ```

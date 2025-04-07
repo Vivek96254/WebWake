@@ -1,7 +1,9 @@
 # WebWake
  A python script to keep your website awake
 
- For free hosted websites that have a cold start, use this to keep your website awake. The default timer is set to 14 minutes. **Can also be used to increase traffic or uptime monitoring.**
+ For free hosted websites that have a cold start, use this to keep your website awake. The default timer is set to 14 minutes. 
+ Looking for a free local lightweight uptime monitor, this is another go to.
+ Want to increase traffic on your website, this app can also do that.
 
 [WINDOWS ONLY]
 To convert it into an .exe executable file use the command 

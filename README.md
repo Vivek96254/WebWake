@@ -6,10 +6,15 @@
  Want to increase traffic on your website, this app can also do that.
 
 [WINDOWS ONLY]
-To convert it into an .exe executable file use the command 
+To convert it into an .exe executable file use the command :
 ```linux
  pyinstaller --noconsole --onefile web_noti_v4.py
 ```
+In case you need the logs console just use :
+```linux
+ pyinstaller --onefile web_noti_v4.py
+```
+
 To autostart the app on login, 
 1. Press Windows key + R
 2. Type 'shell:startup' (This will open the Startup folder)

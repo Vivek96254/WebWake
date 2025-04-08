@@ -19,3 +19,6 @@ To autostart the app on login,
 1. Press Windows key + R
 2. Type 'shell:startup' (This will open the Startup folder)
 3. Place the shortcut of the executable in this folder
+
+
+## Added a GUI version as well, easier to change the website, start the script or stop it with the logs as well.
